@@ -1,5 +1,5 @@
 {
-    "name": "wi1dcard/baidu-mini-program-sdk",
+    "name": "hyc/baidu-mini-program-sdk",
     "description": "百度小程序第三方 PHP SDK，助力智能小程序开发。",
     "type": "library",
     "require": {
@@ -19,8 +19,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "wi1dcard",
-            "email": "wi1dcard.cn@gmail.com"
+            "name": "hyc",
+            "email": "594609175@qq.com"
         }
     ],
     "autoload": {
